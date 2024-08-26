@@ -89,11 +89,12 @@ p {
 }
 
 table {
-	padding: 0;
+	padding: 25px;
+  border-collapse: collapse;
 }
 
 table tr {
-	border-top: 1px solid #cccccc;
+	border-top: 1px solid #b7b7b7;
 	background-color: white;
 	margin: 0;
 	padding: 0;
@@ -105,14 +106,14 @@ table tr:nth-child(2n) {
 
 table tr th {
 	font-weight: bold;
-	border: 1px solid #cccccc;
+	border: 1px solid #b7b7b7;
 	text-align: left;
 	margin: 0;
 	padding: 6px 13px;
 }
 
 table tr td {
-	border: 1px solid #cccccc;
+	border: 1px solid #b7b7b7;
 	text-align: left;
 	margin: 0;
 	padding: 6px 13px;
@@ -127,6 +128,15 @@ table tr th :last-child,
 table tr td :last-child {
 	margin-bottom: 0;
 }
+
+#table-wrapper {
+  width: 80%; /* or any specific width, e.g., 80% or 90% */
+  // overflow: hidden; /* Hide any overflow */
+  // text-align: center; /* Ensure the table is centered within the wrapper */
+  margin: 0 auto; /* Center the table if it's narrower than the container */
+  position: relative; /* Allow positioning of the table */
+}
+
 
 /*.detailed .entry p:first-of-type:first-letter {
     float: left;
@@ -424,6 +434,15 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+footer #copyright p {
+  font-size: 12px;
+  padding: 0;
+  margin: 0;
 }
 
 body:after {
