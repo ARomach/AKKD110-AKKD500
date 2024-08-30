@@ -57,6 +57,7 @@ This course website is the main source for following week by week assignments (u
 
 - Vocabulary organized according to Huehnergard’s chapters is available through a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1cOzJwrJuwKuhsvXzZ25GANkObBirXbcOlWSgbtCCMLI/edit?usp=sharing){:target="_blank"}. WARNING: the vocabulary was automatically extracted from the PDF and may include some mistakes. I will validate each week’s new vocabulary before the beginning of that week, but I caution against using the full vocabulary at once.
 - A list of the Akkadian consonants with their Hebrew equivalents and IPA reconstructed articulation can be accessed through this [Google spreadsheet](https://docs.google.com/spreadsheets/d/1gJ_Y9hGenTmyctCmNS8GP41pZ8sstyTUU479G514CR4/edit?usp=sharing){:target="_blank"}.
+- A [document](https://docs.google.com/document/d/1uqQI68RR6n8z9F3zHT2BRzxocHWRlIwR-q0zvRDQX9o/edit?usp=sharing){:target="_blank"} detailing how to use the [ORACC keyboard](https://oracc.museum.upenn.edu/doc/help/visitingoracc/keyboards/index.html){:target="_blank"} for special cuneiform characters (tlit). 
 
 
 More resources will be added throughout the semester to this section.
