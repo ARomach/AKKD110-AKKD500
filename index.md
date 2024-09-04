@@ -49,15 +49,3 @@ Grading is as follows:
 **Two take-home quarter quizzes, Midterm exam, and Final exam**: These exams will include sentences (or texts) in Akkadian to normalize, parse, and translate. They may also include some cuneiform exercises. The quarter quizzes will be significantly shorter, and are meant primarily as practice for the midterm and final exams. A detailed explanation on the structure of each exam or quiz will be given a week in advance.
 
 **HW preparation and active class participation**: We will check homework together in class. Students must come prepared having already completed the homework before class. **Attendance is mandatory**: if you have to miss a class, please let me know in advance in person or via email and provide the reason. Only one unexcused absence is permitted each semester, without affecting the grade.
-
-
-## Additional Resources
-
-This course website is the main source for following week by week assignments (under [Schedule and Homework]({{ site.baseurl }}/schedule-and-homework)).
-
-- Vocabulary organized according to Huehnergard’s chapters is available through a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1cOzJwrJuwKuhsvXzZ25GANkObBirXbcOlWSgbtCCMLI/edit?usp=sharing){:target="_blank"}. WARNING: the vocabulary was automatically extracted from the PDF and may include some mistakes. I will validate each week’s new vocabulary before the beginning of that week, but I caution against using the full vocabulary at once.
-- A list of the Akkadian consonants with their Hebrew equivalents and IPA reconstructed articulation can be accessed through this [Google spreadsheet](https://docs.google.com/spreadsheets/d/1gJ_Y9hGenTmyctCmNS8GP41pZ8sstyTUU479G514CR4/edit?usp=sharing){:target="_blank"}.
-- A [document](https://docs.google.com/document/d/1uqQI68RR6n8z9F3zHT2BRzxocHWRlIwR-q0zvRDQX9o/edit?usp=sharing){:target="_blank"} detailing how to use the [ORACC keyboard](https://oracc.museum.upenn.edu/doc/help/visitingoracc/keyboards/index.html){:target="_blank"} for special cuneiform characters (tlit). 
-
-
-More resources will be added throughout the semester to this section.
