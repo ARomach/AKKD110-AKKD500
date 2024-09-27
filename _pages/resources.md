@@ -25,4 +25,4 @@ Below additional resources are organized according to categories: vocabulary and
 
 ## General
 
-- [eHammurabi](https://ehammurabi.org/){:target="_blank"} is a website and tool for viewing the laws of Hammurabi from hand-copy, transliteration, normalization, and translation. You can also use the Stele3D view to see the laws location on the Stele of Hammurabi.
+- [eHammurabi](https://ehammurabi.org/){:target="_blank"} is a website and tool for viewing the laws of Hammurabi from hand-copy, transliteration, normalization, and translation. You can also use the Stele3D view to see the laws' locations on the Stele of Hammurabi.
