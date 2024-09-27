@@ -6,7 +6,7 @@ permalink: /resources/
 
 This course website is the main resource for following week by week assignments (under [Schedule and Homework]({{ site.baseurl }}/schedule-and-homework)).
 
-Below additional resources are organized according to categories: vocabulary and consonants, and cuneiform related. More resources and categories may be added throughout the semester.
+Below additional resources are organized according to categories: vocabulary and consonants, cuneiform related, and general.
 
 ## Vocabulary and Consonants
 
@@ -22,3 +22,7 @@ Below additional resources are organized according to categories: vocabulary and
 - The [Aggregated Cuneiform Resources Lookup](https://oracc.museum.upenn.edu/osl/ACRL/index.html){:target="_blank"} of the ORACC global sign list: a resource to view cropped images of specific signs from cuneiform tablets according to period.
 - The [electronic Babylonian Library's (eBL) Signs search](https://www.ebl.lmu.de/signs){:target="_blank"}: a resource to view cropped images of specific signs from cuneiform tablets according to period.
 - [Unicode fonts for cuneiform](https://www.hethport.uni-wuerzburg.de/cuneifont/){:target="_blank"} through the Hethitologie Portal Mainz: if you wish to download cuneiform fonts to your computer, you can use the link to access the available fonts. Each font represents a different period or style of cuneiform writing. For this class, we will focus on OB monumental and cursive. At the Downloads section at the right side of the linked webpage, you will find "Old Babylonian Fonts": press it and a folder will be downloaded to your computer containing two fonts: Santakku (OB cursive) and SantakkuM (OB monumental). Double click the files to install them.
+
+## General
+
+- [eHammurabi](https://ehammurabi.org/){:target="_blank"} is a website and tool for viewing the laws of Hammurabi from hand-copy, transliteration, normalization, and translation. You can also use the Stele3D view to see the laws location on the Stele of Hammurabi.
